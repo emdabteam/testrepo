@@ -1,2 +1,2 @@
-Readme now.
+Readme now. Zmiana zdalna.
 Zmiany w pliku!!!
